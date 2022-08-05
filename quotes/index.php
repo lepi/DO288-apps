@@ -1,3 +1,3 @@
 <?php
-    print "This app returns a random funny quote.\n\nLePi"
+    print "This app returns a random funny quote.\n\nLePi2"
 ?>
